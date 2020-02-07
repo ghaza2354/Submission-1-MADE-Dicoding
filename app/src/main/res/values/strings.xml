@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Moveey</string>
+
+    <string name="judulAbominable">Abominable (2019)</string>
+    <string name="judulBlackAndBlue">Black And Blue (2019)</string>
+    <string name="judulCountdown">Countdown (2019)</string>
+    <string name="judulGeminiman">Geminiman (2019)</string>
+    <string name="judulJoker">Joker (2019)</string>
+    <string name="judulMaleficent">Maleficent: Mistress of Evil (2019)</string>
+    <string name="judulTheAddamsFamily">The Addams Family (2019)</string>
+    <string name="judulTheCurrentWar">The Current War (2019)</string>
+    <string name="judulTheLighthouse">The Lighthouse (2019)</string>
+    <string name="judulZombieland">Zombieland: Double Tap (2019)</string>
+
+    <string name="sinopsisAbominable">Three teenagers must help a Yeti return to his family while avoiding a wealthy man and a zoologist who want it for their own needs.</string>
+    <string name="sinopsisBlackAndBlue">A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.</string>
+    <string name="sinopsisCountdown">When a nurse downloads an app that claims to predict the moment a person will die, it tells her she only has three days to live. With the clock ticking and a figure haunting her, she must find a way to save her life before time runs out.</string>
+    <string name="sinopsisGeminiman">An over-the-hill hitman faces off against a younger clone of himself.</string>
+    <string name="sinopsisJoker">In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: "The Joker".</string>
+    <string name="sinopsisMaleficent">Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.</string>
+    <string name="sinopsisTheAddamsFamily">An animated version of Charles Addams. series of cartoons about a peculiar, ghoulish family.</string>
+    <string name="sinopsisTheCurrentWar">The dramatic story of the cutthroat race between electricity titans Thomas Edison and George Westinghouse to determine whose electrical system would power the modern world.</string>
+    <string name="sinopsisTheLighthouse">The hypnotic and hallucinatory tale of two lighthouse keepers on a remote and mysterious New England island in the 1890s.</string>
+    <string name="sinopsisZombieland">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.</string>
+
+
+</resources>
